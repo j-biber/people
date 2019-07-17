@@ -1,0 +1,14 @@
+.page-navigation {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+}
+
+.page-navigation li {
+    margin-left: 1rem;
+}
+
+.page-navigation li:first-child {
+    font-size: 1.1rem;
+    font-weight: 500;
+}

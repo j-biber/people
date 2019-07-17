@@ -1,0 +1,10 @@
+.list .media {
+    border: 1px solid lightgray;
+    border-radius: 3px;
+    padding: 10px;
+}
+
+.list img {
+    border-radius: 50%;
+    width: 60px;
+}

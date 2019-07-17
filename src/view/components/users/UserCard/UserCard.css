@@ -1,0 +1,11 @@
+.grid .username {
+    display: inline-block;
+    background-color: #00000054;
+    padding: 4px;
+    position: absolute;
+    bottom: 110px;
+    color : beige;
+    font-weight: bold;
+    letter-spacing: 10px;
+    padding-left: 11px;
+  }

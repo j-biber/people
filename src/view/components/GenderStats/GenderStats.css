@@ -1,0 +1,9 @@
+.stats {
+    display: flex;
+    justify-content: flex-end;
+    color: lightgray;
+}
+
+.stats div:first-child {
+    margin-right: 10px;
+}
